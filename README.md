@@ -61,3 +61,10 @@ What can you expect from me when I'm hired as a contractor:
 - honestly admitting when I do not know something or not being qualified enough
 - not over-complicating the solution
 - being available for support and further assistance after the final deployment
+
+I discovered too late in my life that there are only 3 kinds of people in the world:
+- those who know what needs to be done
+- those who know how to do it
+- those who don't care
+
+Let's have a chat and see whether I can do the things that you need to be done.
